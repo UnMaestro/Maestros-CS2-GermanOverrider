@@ -1,6 +1,14 @@
 # German Vanilla Theme Overrider 
 
-Hello and Hallo. This is a Vanilla Theme Overrider that turns Vanilla Signs and Roadmarkings to German ones.
+Hello and Hallo. This is a **EU** and **NA** Vanilla Theme Overrider that turns Vanilla Signs, Roadmarkings and Decals to German ones.
+
+### Functions
+- Works **automaticly**, you don't need any knowledge whatsoever!
+- Variable working Street Signs
+- Variable working Bus/Tram Signs with max. 5 Lines displayed
+	- Style based on Ruhrbahn Essen Signs
+- Bicycle Parking Spots
+- 3D Model Signs
 
 ---
 
@@ -9,28 +17,16 @@ Hello and Hallo. This is a Vanilla Theme Overrider that turns Vanilla Signs and 
 
 ---
 
-##  Check out my other Signs/Overrider Modules
-### Serie A
+##  Check out the corrosponding Sign Pack or the other Country Packs/Overrider
 - [German Signs](https://mods.paradoxplaza.com/mods/120627/Windows)
-- [Dutch Signs](https://mods.paradoxplaza.com/mods/121223/Windows)
-- [Dutch Overrider](https://mods.paradoxplaza.com/mods/125249/Windows)
-- [Italian Signs](https://mods.paradoxplaza.com/mods/121615/Windows)
-- [Italian Overrider](https://mods.paradoxplaza.com/mods/124269/Windows)
+- [Other Countries](https://mods.paradoxplaza.com/authors/UnMaestro)
 
-### Serie B
-- [Swiss Signs](https://mods.paradoxplaza.com/mods/124288/Windows)
-- [Swiss Overrider](https://mods.paradoxplaza.com/mods/123563/Windows)
-- [French Signs](https://mods.paradoxplaza.com/mods/124289/Windows)
-- [French Overrider](https://mods.paradoxplaza.com/mods/123893/Windows)
-- [Spanish Signs](https://mods.paradoxplaza.com/mods/124290/Windows)
-- [Spanish Overrider]()
-- 
 ---
 
 ##  Credits and Special Thanks
 - To **Klyte45** for the WriteEverywhere mod.
 - **Klyte45**s [Vanilla Theme Override Mod](https://mods.paradoxplaza.com/mods/106877/Windows), without that I would have lost my mind.
-
+- 
 ---
 
 ##  Enjoy & Share Your Feedback!

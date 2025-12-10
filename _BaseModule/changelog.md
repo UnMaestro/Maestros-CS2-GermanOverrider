@@ -1,5 +1,5 @@
-## Ver 1.1.1 Update
-### Changes
-- Added a new Bus Stop sign, this will be someday variable with buslines.
-### Fixes
-- Compatibility for game update 1.5.2f1
+## Ver 1.2 Update
+### Added
+- 3D Models for 95% of the signs
+- 3D Model for Bus Signs (Static for now)
+- NA Theme Support

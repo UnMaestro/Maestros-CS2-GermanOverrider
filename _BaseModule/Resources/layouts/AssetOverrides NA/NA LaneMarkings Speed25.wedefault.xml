@@ -7,7 +7,7 @@
         <scale x="6" y="6" z="1" />
       </transform>
       <imageMesh atlas="German">
-        <image>Floor40</image>
+        <image>Floor30</image>
       </imageMesh>
       <decalStyle decalFlags="7" affectSmoothness="false" affectAO="false" affectEmission="false" drawOrder="2">
         <color>FFFFFFFF</color>

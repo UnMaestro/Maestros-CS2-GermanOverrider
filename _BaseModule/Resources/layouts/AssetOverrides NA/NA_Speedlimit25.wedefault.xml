@@ -40,7 +40,7 @@
         </transform>
         <imageMesh atlas="German">
           <mesh></mesh>
-          <image>Sign40</image>
+          <image>Sign30</image>
         </imageMesh>
         <defaultStyle>
           <color>FFFFFFFF</color>
